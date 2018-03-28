@@ -1,0 +1,35 @@
+body {
+    
+}
+
+h1 {
+    font-family: Lobster;
+}
+
+.ratings {
+    color: yellow;
+    font-family: avenir;
+    font-size: 18px;
+}
+
+h1 {
+    color: white;
+    font-size: 45px;
+}
+
+.btn-primary {
+    margin-left: 10px;
+    background: yellow;
+    color: blue;
+}
+
+
+
+.form-control {
+    width: 30%;
+}
+
+#add {
+    font-size: 20px;
+    color: white;
+}
